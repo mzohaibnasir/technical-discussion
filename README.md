@@ -16,3 +16,8 @@ This is an isolated example of gist [my_code](https://gist.github.com/mzohaibnas
 ### Colab Example
  
 this is  [notebook](https://github.com/mzohaibnasir/technical-discussion/blob/main/technical_discussion.ipynb)
+
+
+### Image
+
+![Screenshot from 2023-03-08 15-46-33](https://user-images.githubusercontent.com/68359676/223693537-040a8622-bbfa-46fc-ba96-25d35c40ba8e.png)
