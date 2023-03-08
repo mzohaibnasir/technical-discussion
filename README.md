@@ -15,3 +15,4 @@ This is an isolated example of gist [my_code](https://gist.github.com/mzohaibnas
 
 ### Colab Example
  
+this is  [notebook](https://github.com/mzohaibnasir/technical-discussion/blob/main/technical_discussion.ipynb)
